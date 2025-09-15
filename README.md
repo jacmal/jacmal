@@ -18,6 +18,8 @@ Projektuję i buduję ekosystemy inteligentne. Poniżej znajdziesz mapę mojego 
 * 🧭 **[Atlas Wiedzy AI (Model Dojrzałości)](link-do-repo-atlasu)**
     > *Kompletna mapa i taksonomia architektur poznawczych. Jeśli chcesz zgłębić **jak** strukturyzuję i klasyfikuję systemy AI – zanurz się w moim opus magnum.*
 
+* 🧠 **[Wejdź do Laboratorium Poznawczego](https://github.com/jacmal/Laboratorium_Poznawcze)**
+    > *To jest serce moich bieżących badań i eksperymentów. Miejsce, gdzie "zaszczepiam" i rozwijam nowe myśli, zanim staną się częścią ugruntowanej wiedzy.*
 ---
 
 ### 🚀 Kluczowe Projekty i Inicjatywy
