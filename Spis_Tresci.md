@@ -8,7 +8,7 @@ Witaj w centrum nawigacyjnym mojego świata. Znajdziesz tu zarówno ugruntowaną
 
 To jest serce moich bieżących badań i eksperymentów. Miejsce, gdzie "zaszczepiam" i rozwijam nowe myśli, zanim staną się częścią ugruntowanej wiedzy.
 
-* **[➡️ Wejdź do Laboratorium Poznawczego](./link-do-repo-laboratorium)**
+* **[➡️ Wejdź do Laboratorium Poznawczego](https://github.com/jacmal/Laboratorium_Poznawcze)**
     * *Zobacz, nad czym aktualnie pracuję, eksploruj idee w toku i obserwuj proces twórczy na żywo.*
 
 ---
