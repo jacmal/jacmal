@@ -1,5 +1,5 @@
 # Cześć, jestem Jacek 👋
-## Prompt Inżynier | Architekt Systemów Poznawczych | 
+## Prompt Inżynier | Architekt Systemów Wielo-Agentowych i Systemów Poznawczych | Badacz AI
 
 Projektuję i buduję systemy inteligentne. Poniżej znajdziesz mapę – od osobistej historii, przez filozofię pracy, po konkretne projekty i modele teoretyczne.
 
