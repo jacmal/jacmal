@@ -15,7 +15,7 @@ Projektuję i buduję systemy inteligentne. Poniżej znajdziesz mapę – od oso
 * 📜 **[Mój Manifest i Filozofia](link-do-repo-atlasu/Manifest_Architekta.md)**
     > *Zbiór fundamentalnych zasad, które kierują moją pracą. Jeśli chcesz zrozumieć, **dlaczego** buduję systemy w określony sposób – to jest właściwe miejsce.*
 
-* 🧭 **[Atlas Wiedzy AI (Model Dojrzałości)](link-do-repo-atlasu)**
+* 🗺️ **[Atlas Wiedzy AI (Model Dojrzałości)](link-do-repo-atlasu)**
     > *Kompletna mapa i taksonomia architektur poznawczych. Jeśli chcesz zgłębić **jak** strukturyzuję i klasyfikuję systemy AI – zanurz się w mojej bibliotece.*
 
 * 🧠 **[Wejdź do Laboratorium Poznawczego](https://github.com/jacmal/Laboratorium_Poznawcze)**
