@@ -7,7 +7,7 @@ Projektuję i buduję systemy inteligentne. Poniżej znajdziesz mapę – od oso
 ## [➡️ Przejdź do Spisu Treści (Mapa)](./Spis_Tresci.md)
 ---
 
-### Trzy Ścieżki do Poznania Mojej Pracy:
+### Ścieżki do Poznania Mojej Pracy:
 
 * 👤 **[O Mnie](./Architekt.md)**
     > *Moja historia, doświadczenie i kluczowe projekty. Jeśli chcesz wiedzieć, kim jestem i co do tej pory zbudowałem – zacznij tutaj.*
