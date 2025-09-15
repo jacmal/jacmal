@@ -19,4 +19,8 @@ Projektuję i buduję ekosystemy inteligentne. Poniżej znajdziesz mapę mojego 
     > *Kompletna mapa i taksonomia architektur poznawczych. Jeśli chcesz zgłębić **jak** strukturyzuję i klasyfikuję systemy AI – zanurz się w moim opus magnum.*
 
 ---
-### 🚀 Wybrane Projekty
+### 🚀 Kluczowe Projekty i Inicjatywy
+
+* **[Genesis OS Lite](./link-do-repo-genesis)**: Wieloagentowy system operacyjny przestrzeni konwersacji.
+* **[Język Analogii 2.0](./link-do-repo-jezyka)**: Język programowania w przestrzeni konwersacji.
+* **[Biblioteka Wzorców Poznawczych](./link-do-repo-wzorcow)**: Zbiór reużywalnych wzorców dla inteligentnych systemów.
