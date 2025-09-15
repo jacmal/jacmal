@@ -1,5 +1,5 @@
-# Cześć, jestem [Twoje Imię] 👋
-## Architekt Systemów Poznawczych | Wizjoner AI
+# Cześć, jestem Jacek 👋
+## Prompt Inżynier | Architekt Systemów Poznawczych | 
 
 Projektuję i buduję ekosystemy inteligentne. Poniżej znajdziesz mapę mojego świata – od osobistej historii, przez filozofię pracy, po konkretne projekty i modele teoretyczne.
 
