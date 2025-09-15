@@ -4,6 +4,8 @@
 Projektuję i buduję ekosystemy inteligentne. Poniżej znajdziesz mapę mojego świata – od osobistej historii, przez filozofię pracy, po konkretne projekty i modele teoretyczne.
 
 ---
+## [Spis Treści](./Spis_tresci.md)
+---
 
 ### Trzy Ścieżki do Poznania Mojej Pracy:
 
