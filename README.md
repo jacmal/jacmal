@@ -1,12 +1,20 @@
-- 👋 Hi, I’m Jacek Malecki.
-- 👀 I’m interested in Machine Learning and AI.
-- 🌱 I’m currently learning: multiple Reinforcement Learning methods, ML Image Object Detection and Basics of NLP.
-- 💞️ I’m looking to collaborate on ML and AI models or projects.
-- 📫 How to reach me: jacmal86@gmail.com
+# Cześć, jestem [Twoje Imię] 👋
+## Architekt Systemów Poznawczych | Wizjoner AI
 
-**[Spis treści](Spis_Tresci.md)**
+Projektuję i buduję ekosystemy inteligentne. Poniżej znajdziesz mapę mojego świata – od osobistej historii, przez filozofię pracy, po konkretne projekty i modele teoretyczne.
 
-<!---
-jacmal/jacmal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### Trzy Ścieżki do Poznania Mojej Pracy:
+
+* 👤 **[O Mnie (Architekt.md)](./Architekt.md)**
+    > *Moja historia, doświadczenie i kluczowe projekty. Jeśli chcesz wiedzieć, kim jestem i co do tej pory zbudowałem – zacznij tutaj.*
+
+* 📜 **[Mój Manifest i Filozofia](link-do-repo-atlasu/Manifest_Architekta.md)**
+    > *Zbiór fundamentalnych zasad, które kierują moją pracą. Jeśli chcesz zrozumieć, **dlaczego** buduję systemy w określony sposób – to jest właściwe miejsce.*
+
+* 🧭 **[Atlas Wiedzy AI (Model Dojrzałości)](link-do-repo-atlasu)**
+    > *Kompletna mapa i taksonomia architektur poznawczych. Jeśli chcesz zgłębić **jak** strukturyzuję i klasyfikuję systemy AI – zanurz się w moim opus magnum.*
+
+---
+### 🚀 Wybrane Projekty
