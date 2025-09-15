@@ -7,7 +7,7 @@ Projektuję i buduję ekosystemy inteligentne. Poniżej znajdziesz mapę mojego 
 
 ### Trzy Ścieżki do Poznania Mojej Pracy:
 
-* 👤 **[O Mnie (Architekt.md)](./Architekt.md)**
+* 👤 **[O Mnie](./Architekt.md)**
     > *Moja historia, doświadczenie i kluczowe projekty. Jeśli chcesz wiedzieć, kim jestem i co do tej pory zbudowałem – zacznij tutaj.*
 
 * 📜 **[Mój Manifest i Filozofia](link-do-repo-atlasu/Manifest_Architekta.md)**
