@@ -30,4 +30,13 @@ Projektuję i buduję systemy inteligentne. Poniżej znajdziesz mapę – od oso
 
 ---
 
+### 🔭 Mapa Drogowa (Obecne Badania)
+
+Moje obecne zainteresowania skupiają się na:
+* Badaniu przejść fazowych i zachowań emergentnych w symulowanych systemach wieloagentowych.
+* Projektowaniu alternatywnych, niehierarchicznych architektur poznawczych (np. "Kłącze Poznawcze").
+* Praktycznym zastosowaniu "Protokółu Transferu Mistrzostwa" do przyspieszonego uczenia (zarówno ludzi, jak i AI).
+
+---
+
 ### 🏛️ Publikacje
