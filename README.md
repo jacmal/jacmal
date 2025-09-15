@@ -1,7 +1,7 @@
 # Cześć, jestem Jacek 👋
 ## Prompt Inżynier | Architekt Systemów Poznawczych | 
 
-Projektuję i buduję ekosystemy inteligentne. Poniżej znajdziesz mapę mojego świata – od osobistej historii, przez filozofię pracy, po konkretne projekty i modele teoretyczne.
+Projektuję i buduję systemy inteligentne. Poniżej znajdziesz mapę – od osobistej historii, przez filozofię pracy, po konkretne projekty i modele teoretyczne.
 
 ---
 ## [➡️ Przejdź do Spisu Treści (Mapa)](./Spis_Tresci.md)
@@ -16,7 +16,7 @@ Projektuję i buduję ekosystemy inteligentne. Poniżej znajdziesz mapę mojego 
     > *Zbiór fundamentalnych zasad, które kierują moją pracą. Jeśli chcesz zrozumieć, **dlaczego** buduję systemy w określony sposób – to jest właściwe miejsce.*
 
 * 🧭 **[Atlas Wiedzy AI (Model Dojrzałości)](link-do-repo-atlasu)**
-    > *Kompletna mapa i taksonomia architektur poznawczych. Jeśli chcesz zgłębić **jak** strukturyzuję i klasyfikuję systemy AI – zanurz się w moim opus magnum.*
+    > *Kompletna mapa i taksonomia architektur poznawczych. Jeśli chcesz zgłębić **jak** strukturyzuję i klasyfikuję systemy AI – zanurz się w mojej bibliotece.*
 
 * 🧠 **[Wejdź do Laboratorium Poznawczego](https://github.com/jacmal/Laboratorium_Poznawcze)**
     > *To jest serce moich bieżących badań i eksperymentów. Miejsce, gdzie "zaszczepiam" i rozwijam nowe myśli, zanim staną się częścią ugruntowanej wiedzy.*
