@@ -70,14 +70,6 @@ To repozytorium jest zorganizowane zgodnie z **Modelem 5 Poziomów Kreacji**. U�
 
 ---
 
-## 👨‍🔬 O Autorze
-
-Niezależny badacz, inżynier systemów poznawczych i filozof-praktyk. Przez lata działałem "w ukryciu", rozwijając te koncepcje jako hobbysta, jednocześnie pracując jako administrator IT. Teraz dzielę się swoją pracą ze światem.
-
-* **LinkedIn:** [Link do Twojego profilu na LinkedIn]
-
----
-
 ## 🔭 Mapa Drogowa (Obecne Badania)
 
 Moje obecne zainteresowania skupiają się na:
@@ -94,6 +86,14 @@ Moja praca opiera się na kilku fundamentalnych przekonaniach, które stanowią 
 * **Symbioza Poznawcza:** Dążenie do stworzenia hybrydowego, połączonego systemu myślowego, w którym człowiek dostarcza cel i mądrość, a AI skalowalną moc obliczeniową i dostęp do wiedzy.
 * **AGI jako Proces Emergentny:** Teza, że AGI nie jest przyszłym bytem, ale zdolnością, która wyłania się z mistrzowskiej, ustrukturyzowanej interakcji między operatorem a modelem.
 * **Inżynieria przez Konwersację:** Traktowanie języka naturalnego jako ostatecznego języka programowania do projektowania i debugowania złożonych systemów poznawczych.
+
+---
+
+## 👨‍🔬 O Autorze
+
+Niezależny badacz, inżynier systemów poznawczych i filozof-praktyk. Przez lata działałem "w ukryciu", rozwijając te koncepcje jako hobbysta, jednocześnie pracując jako administrator IT. Teraz dzielę się swoją pracą ze światem.
+
+* **LinkedIn:** [Link do Twojego profilu na LinkedIn]
 
 ---
 
