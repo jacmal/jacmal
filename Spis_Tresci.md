@@ -3,8 +3,8 @@
 Witaj w centrum nawigacyjnym mojego świata. Znajdziesz tu zarówno ugruntowaną, ustrukturyzowaną wiedzę, jak i dynamiczne laboratorium, w którym rodzą się nowe idee.
 
 ---
-
-### 🧠 Laboratorium Poznawcze (Mój Cyfrowy Ogród)
+https://github.com/jacmal/Baza_Wiedzy/tree/main
+### 🗺️ Baza Wiedzy (Mój Cyfrowy Ogród)
 
 To jest serce moich bieżących badań i eksperymentów. Miejsce, gdzie "zaszczepiam" i rozwijam nowe myśli, zanim staną się częścią ugruntowanej wiedzy.
 
@@ -24,6 +24,15 @@ Poniżej znajduje się kompletny, modułowy zbiór wiedzy, zorganizowany według
 * **[Poziom 4: Architekt Systemów Wielo-Agentowych i Architektur Kognitywnych](https://github.com/jacmal/Architekt_Systemow_AI)**
 * **[Poziom 5: Architekt Systemów Ewolucyjnych i Procesów Emergentnych (w przygotowaniu)](./link-do-repo-poziom-5)**
 * **[Poziom 6: Architekt Metasystemowy (w przygotowaniu)](./link-do-repo-poziom-6)**
+
+---
+
+### 🧠 Laboratorium Poznawcze (Mój Cyfrowy Ogród)
+
+To jest serce moich bieżących badań i eksperymentów. Miejsce, gdzie "zaszczepiam" i rozwijam nowe myśli, zanim staną się częścią ugruntowanej wiedzy.
+
+* **[➡️ Wejdź do Laboratorium Poznawczego](https://github.com/jacmal/Laboratorium_Poznawcze)**
+    * *Zobacz, nad czym aktualnie pracuję, eksploruj idee w toku i obserwuj proces twórczy na żywo.*
 
 ---
 
