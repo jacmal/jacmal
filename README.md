@@ -1,7 +1,31 @@
-# Cześć, jestem Jacek 👋
+# Cześć, jestem Jacek / jacmal 👋
 ### Prompt Inżynier | Architekt Systemów Wielo-Agentowych i Poznawczych | Badacz AI
 
 Projektuję i buduję systemy inteligentne. Poniżej znajdziesz mapę – od osobistej historii, przez filozofię pracy, po konkretne projekty i modele teoretyczne.
+
+Witaj. Jestem niezależnym badaczem i inżynierem specjalizującym się w projektowaniu, budowie i optymalizacji złożonych, autonomicznych systemów AI. Moje prace koncentrują się na praktycznych zastosowaniach modeli językowych w architekturach wieloagentowych oraz na tworzeniu wysoce efektywnych i niezawodnych metod interakcji.
+
+W tym repozytorium znajdziesz przykłady moich prac, studiów przypadku i autorskich metodologii.
+
+* **LinkedIn:** [Link do Twojego profilu na LinkedIn]
+* **Kontakt:** [Twój adres e-mail]
+
+---
+
+## Kluczowe Kompetencje i Zakres Działania
+
+####  Architektura Systemów Wieloagentowych
+* Projektowanie i implementacja hierarchicznych oraz zdecentralizowanych systemów, w których wielu autonomicznych agentów AI efektywnie współpracuje w celu realizacji złożonych zadań.
+* Tworzenie niestandardowych protokołów komunikacji, negocjacji i alokacji zasobów między agentami.
+
+#### Inżynieria Promptów i Metodologii AI
+* Opracowywanie i wdrażanie zaawansowanych, wieloetapowych łańcuchów promptów, które zapewniają wysoką spójność i niezawodność odpowiedzi AI.
+* Tworzenie reużywalnych "klocków poznawczych" – sformalizowanych procedur do rozwiązywania powtarzalnych problemów z zakresu analizy, syntezy danych i podejmowania decyzji.
+
+#### Badania i Rozwój w Stosowanej AI
+* Prowadzenie praktycznych badań nad zachowaniami emergentnymi w systemach wieloagentowych.
+* Tworzenie i testowanie niestandardowych architektur poznawczych na potrzeby specyficznych problemów biznesowych i analitycznych.
+
 
 ---
 ## [➡️ Przejdź do Spisu Treści (Mapa)](./Spis_Tresci.md)
