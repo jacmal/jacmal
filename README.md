@@ -14,6 +14,8 @@ W tym repozytorium znajdziesz przykłady moich prac, studiów przypadku i autors
 
 ## Kluczowe Kompetencje i Zakres Działania
 
+####  Filozofia i Paradygmaty
+
 ####  Architektura Systemów Wieloagentowych
 * Projektowanie i implementacja hierarchicznych oraz zdecentralizowanych systemów, w których wielu autonomicznych agentów AI efektywnie współpracuje w celu realizacji złożonych zadań.
 * Tworzenie niestandardowych protokołów komunikacji, negocjacji i alokacji zasobów między agentami.
