@@ -3,12 +3,12 @@
 Witaj w centrum nawigacyjnym mojego świata. Znajdziesz tu zarówno ugruntowaną, ustrukturyzowaną wiedzę, jak i dynamiczne laboratorium, w którym rodzą się nowe idee.
 
 ---
-https://github.com/jacmal/Baza_Wiedzy/tree/main
+
 ### 🗺️ Baza Wiedzy (Mój Cyfrowy Ogród)
 
 To jest serce moich bieżących badań i eksperymentów. Miejsce, gdzie "zaszczepiam" i rozwijam nowe myśli, zanim staną się częścią ugruntowanej wiedzy.
 
-* **[➡️ Wejdź do Laboratorium Poznawczego](https://github.com/jacmal/Laboratorium_Poznawcze)**
+* **[➡️ Wejdź do Bazy Wiedzy](https://github.com/jacmal/Baza_Wiedzy/tree/main)**
     * *Zobacz, nad czym aktualnie pracuję, eksploruj idee w toku i obserwuj proces twórczy na żywo.*
 
 ---
@@ -36,21 +36,6 @@ To jest serce moich bieżących badań i eksperymentów. Miejsce, gdzie "zaszcze
 
 ---
 
-### 🏛️ Inne Kluczowe Zasoby
-
-* **[Manifest Architekta](./link-do-pliku-lub-repo-manifestu)**: Moje "dlaczego".
-* **[O Mnie (Architekt.md)](./Architekt.md)**: Moja historia i doświadczenie.
-* **[Lista Umiejętności (Umiejetnosci.md)](./Umiejetnosci.md)**: Moje "czym".
-
-
-## 🏛️ Filozofia i Główne Paradygmaty
-
-Moja praca opiera się na kilku fundamentalnych przekonaniach, które stanowią podstawę wszystkich moich eksperymentów:
-
-* **Symbioza Poznawcza:** Dążenie do stworzenia hybrydowego, połączonego systemu myślowego, w którym człowiek dostarcza cel i mądrość, a AI skalowalną moc obliczeniową i dostęp do wiedzy.
-* **AGI jako Proces Emergentny:** Teza, że AGI nie jest przyszłym bytem, ale zdolnością, która wyłania się z mistrzowskiej, ustrukturyzowanej interakcji między operatorem a modelem.
-* **Inżynieria przez Konwersację:** Traktowanie języka naturalnego jako ostatecznego języka programowania do projektowania i debugowania złożonych systemów poznawczych.
-
 ## 🗺️ Architektura i Nawigacja po Repozytorium
 
 To repozytorium jest zorganizowane zgodnie z **Modelem 5 Poziomów Kreacji**. Użyj poniższej mapy, aby nawigować po mojej pracy.
@@ -76,10 +61,14 @@ To repozytorium jest zorganizowane zgodnie z **Modelem 5 Poziomów Kreacji**. U�
 * [**📖 GLOSARIUSZ.md**](./GLOSARIUSZ.md)
     * Słownik wszystkich unikalnych terminów i koncepcji używanych w tym projekcie.
 
+---
+
 ## 🚀 Jak Zacząć?
 
 * **Dla Pełnego Obrazu:** Zacznij od przeczytania [**MANIFESTU**](./_MANIFEST.md), aby zrozumieć skalę i strukturę projektu.
 * **Dla Praktycznego Przykładu:** Zanurz się w jedno ze [**Studiów Przypadków**](./03_STUDIA_PRZYPADKOW/), aby zobaczyć, jak ta teoria działa w praktyce.
+
+---
 
 ## 👨‍🔬 O Autorze
 
@@ -87,9 +76,29 @@ Niezależny badacz, inżynier systemów poznawczych i filozof-praktyk. Przez lat
 
 * **LinkedIn:** [Link do Twojego profilu na LinkedIn]
 
+---
+
 ## 🔭 Mapa Drogowa (Obecne Badania)
 
 Moje obecne zainteresowania skupiają się na:
 * Badaniu przejść fazowych i zachowań emergentnych w symulowanych systemach wieloagentowych.
 * Projektowaniu alternatywnych, niehierarchicznych architektur poznawczych (np. "Kłącze Poznawcze").
 * Praktycznym zastosowaniu "Protokółu Transferu Mistrzostwa" do przyspieszonego uczenia (zarówno ludzi, jak i AI).
+
+---
+
+## 🏛️ Filozofia i Główne Paradygmaty
+
+Moja praca opiera się na kilku fundamentalnych przekonaniach, które stanowią podstawę wszystkich moich eksperymentów:
+
+* **Symbioza Poznawcza:** Dążenie do stworzenia hybrydowego, połączonego systemu myślowego, w którym człowiek dostarcza cel i mądrość, a AI skalowalną moc obliczeniową i dostęp do wiedzy.
+* **AGI jako Proces Emergentny:** Teza, że AGI nie jest przyszłym bytem, ale zdolnością, która wyłania się z mistrzowskiej, ustrukturyzowanej interakcji między operatorem a modelem.
+* **Inżynieria przez Konwersację:** Traktowanie języka naturalnego jako ostatecznego języka programowania do projektowania i debugowania złożonych systemów poznawczych.
+
+---
+
+### 🏛️ Inne Kluczowe Zasoby
+
+* **[Manifest Architekta](./link-do-pliku-lub-repo-manifestu)**: Moje "dlaczego".
+* **[O Mnie (Architekt.md)](./Architekt.md)**: Moja historia i doświadczenie.
+* **[Lista Umiejętności (Umiejetnosci.md)](./Umiejetnosci.md)**: Moje "czym".
