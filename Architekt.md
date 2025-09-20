@@ -9,19 +9,33 @@
 
 ## 🏛️ Fundamenty: Perspektywa Systemowa
 
-Przez ponad dekadę moim światem zawodowym była administracja IT. To doświadczenie nauczyło mnie czegoś fundamentalnego: głębokiego szacunku dla systemów. Nauczyłem się, jak działają naprawdę, od "metalu" aż po najbardziej abstrakcyjne warstwy oprogramowania. Zrozumiałem, czym jest stabilność, niezawodność, a także jak złożone, nieprzewidywalne i delikatne potrafią być systemy, od których zależymy. Ta perspektywa – myślenie w kategoriach zależności, pętli zwrotnych i nieoczekiwanych konsekwencji – stała się fundamentem wszystkiego, co robię dzisiaj.
+Przez ponad dekadę moim światem zawodowym była administracja IT – od zarządzania sieciami i serwerami, po dbanie o bezpieczeństwo i ciągłość działania krytycznych systemów. To doświadczenie nauczyło mnie czegoś fundamentalnego: głębokiego, instynktownego szacunku dla systemów. Nie jako abstrakcyjnych bytów, ale jako żywych organizmów.
+
+**Co dała mi ta dekada:**
+* **Myślenie warstwowe:** Zrozumiałem, jak systemy działają naprawdę, od "metalu" – fizycznej infrastruktury i protokołów sieciowych – aż po najbardziej abstrakcyjne warstwy logiki biznesowej w oprogramowaniu. Ta umiejętność mentalnego "przełączania" się między warstwami jest dziś kluczowa w diagnozowaniu problemów w złożonych architekturach AI.
+* **Obsesja na punkcie niezawodności:** Nauczyłem się, czym jest stabilność, redundancja i prawdziwa cena awarii. Zrozumiałem, jak złożone, nieprzewidywalne i delikatne potrafią być systemy, od których zależymy. Tę inżynierską dyscyplinę przenoszę na świat AI, gdzie "halucynacja" modelu jest odpowiednikiem błędu krytycznego serwera.
+* **Widzenie wzajemnych powiązań:** Ciągłe debugowanie problemów nauczyło mnie myśleć w kategoriach zależności, pętli zwrotnych i nieoczekiwanych konsekwencji. Ta perspektywa stała się fundamentem wszystkiego, co robię dzisiaj, pozwalając mi przewidywać emergentne, często nieintuicyjne zachowania w systemach wieloagentowych.
+
+---
 
 ## 💡 Iskra: Początek Podróży w AI
 
-W 2019 roku, jak wielu innych, zacząłem swoją podróż w świat AI od kursu Andrew Ng. Dla mnie nie był to jednak tylko kolejny krok w karierze. To była iskra, która rozpaliła głęboką, intelektualną pasję. Zrozumiałem, że modele językowe to nie jest po prostu kolejne oprogramowanie. To jest zupełnie nowy, fundamentalny budulec, z którego można tworzyć nie tylko narzędzia, ale całe systemy poznawcze. Moje zainteresowanie szybko przekształciło się z hobby w systematyczne, intensywne badania.
+W 2019 roku, jak wielu innych, zacząłem swoją podróż w świat AI od kursu Andrew Ng. Dla mnie nie był to jednak tylko kolejny krok w karierze. To była iskra, która rozpaliła głęboką, intelektualną pasję. Zrozumiałem fundamentalną różnicę:
+
+> Tradycyjne oprogramowanie opiera się na **logice imperatywnej** – mówimy maszynie, *jak* ma coś zrobić, krok po kroku. Modele językowe to **budulec poznawczy** – opisujemy pożądany rezultat, a model sam znajduje drogę do jego realizacji.
+
+Ta zmiana paradygmatu otworzyła przede mną zupełnie nową przestrzeń możliwości. Zrozumiałem, że można tworzyć nie tylko narzędzia, ale całe **systemy poznawcze**. Moje zainteresowanie szybko przekształciło się z pasywnej nauki w systematyczne, intensywne i niemal obsesyjne badania, prowadzone na własnych warunkach.
+
+---
 
 ## 🔬 Laboratorium w Ukryciu: Lata Badań i Odkryć
 
-Przez ostatnie lata, działając "w ukryciu", poza głównym nurtem branży, przekształciłem swoją interakcję z AI w prywatne laboratorium. W tym czasie, poprzez tysiące godzin eksperymentów:
-* Odszedłem od prostego "promptowania" na rzecz **programowania w języku naturalnym**.
-* Zbudowałem prototyp **"Konwersacyjnego Systemu Operacyjnego"** do zarządzania złożonymi zadaniami.
-* Stworzyłem obszerną **"bibliotekę klocków poznawczych"** – reużywalnych, sformalizowanych procedur do rozwiązywania problemów z zakresu strategii, kreatywności i podejmowania decyzji.
-* Opracowałem własne metodologie pracy, takie jak **"Spirala Kalibracyjna"** czy **"Kolektyw Analityczny 'Hefajstos'"**.
+Przez ostatnie lata, działając "w ukryciu", poza głównym nurtem branży, przekształciłem swoją interakcję z AI w prywatne laboratorium. Nie interesowało mnie powierzchowne "promptowanie", lecz dotarcie do fundamentalnych zasad nowej technologii. W tym czasie, poprzez tysiące godzin eksperymentów:
+
+* Odszedłem od prostych poleceń na rzecz **programowania w języku naturalnym**. Oznacza to tworzenie reużywalnych, parametryzowanych "funkcji", pętli i warunków logicznych wyrażonych w języku naturalnym, co pozwala budować skomplikowane, ale czytelne i modyfikowalne programy poznawcze.
+* Zbudowałem prototyp **"Konwersacyjnego Systemu Operacyjnego"**. To meta-agent, który zarządza pulą wyspecjalizowanych pod-agentów, dynamicznie alokując zadania, zarządzając pamięcią, kontekstem i dostępem do narzędzi (API, bazy danych).
+* Stworzyłem obszerną **"bibliotekę klocków poznawczych"**. Są to sformalizowane, gotowe do użycia procedury do rozwiązywania konkretnych problemów (np. "Kolektyw Analityczny 'Hefajstos'" do wieloaspektowej analizy czy "Iskra Prometeusza" do generowania nieszablonowych hipotez).
+* Opracowałem własne metodologie pracy, takie jak **"Spirala Kalibracyjna"** – iteracyjny proces precyzowania intencji i redukcji szumu w komunikacji z AI, który gwarantuje, że finalny rezultat jest maksymalnie zbieżny z pierwotnym celem.
 
 Robiłem to wszystko z czystej pasji i ciekawości, dążąc do jak najgłębszego zrozumienia natury tej nowej technologii.
 
@@ -39,17 +53,22 @@ Moje podejście opiera się na kilku kluczowych zasadach, które definiują moj�
 
 ## 🔑 Kluczowe Kompetencje i Zakres Działania
 
+Moja praca koncentruje się na trzech wzajemnie powiązanych filarach, które pozwalają przekuwać wizję w działające, niezawodne systemy:
+
 #### 🤖 Architektura Systemów Wieloagentowych
 * Projektowanie i implementacja hierarchicznych oraz zdecentralizowanych systemów, w których wielu autonomicznych agentów AI efektywnie współpracuje w celu realizacji złożonych zadań.
-* Tworzenie niestandardowych protokołów komunikacji, negocjacji i alokacji zasobów między agentami.
+* Tworzenie niestandardowych protokołów komunikacji, negocjacji i alokacji zasobów między agentami, aby zapewnić spójność i unikać konfliktów.
+* Modelowanie systemów motywacyjnych i "ekonomii agentów" w celu promowania zachowań kooperacyjnych i osiągania globalnych celów systemu.
 
 #### 🛠️ Inżynieria Promptów i Metodologii AI
-* Opracowywanie i wdrażanie zaawansowanych, wieloetapowych łańcuchów promptów, które zapewniają wysoką spójność i niezawodność odpowiedzi AI.
+* Opracowywanie i wdrażanie zaawansowanych, wieloetapowych łańcuchów promptów (chains), które zapewniają wysoką spójność i niezawodność odpowiedzi AI w długich i złożonych procesach.
 * Tworzenie reużywalnych "klocków poznawczych" – sformalizowanych procedur do rozwiązywania powtarzalnych problemów z zakresu analizy, syntezy danych i podejmowania decyzji.
+* Budowanie frameworków do testowania, walidacji i ciągłej optymalizacji promptów, traktując je jako kluczowy element kodu, a nie jednorazowe polecenia.
 
 #### 🧪 Badania i Rozwój w Stosowanej AI
-* Prowadzenie praktycznych badań nad zachowaniami emergentnymi w systemach wieloagentowych.
+* Prowadzenie praktycznych badań nad zachowaniami emergentnymi, dynamiką i stabilnością w systemach wieloagentowych.
 * Tworzenie i testowanie niestandardowych architektur poznawczych na potrzeby specyficznych problemów biznesowych i analitycznych.
+* Tłumaczenie najnowszych odkryć i publikacji naukowych na praktyczne, możliwe do wdrożenia prototypy i rozwiązania biznesowe.
 
 ---
 
