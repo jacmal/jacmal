@@ -15,21 +15,21 @@ Poniżej znajduje się skategoryzowana lista kluczowych kompetencji, które wyko
 
 ### 🧠 Inżynieria AI i ML
 * **Meta Prompt Engineering & Inżynieria Kontekstu**
-* **Języki Programowania:** Python, Lisp/Clojure (dla systemów symbolicznych), Rust
-* **Frameworki ML/DL:** PyTorch, TensorFlow, LangChain, LlamaIndex
-* **Przetwarzanie Języka Naturalnego (NLP):** Transformers, RAG (Retrieval-Augmented Generation), Fine-tuning LLM
+* **Języki Programowania:** Naturalny 😉, Python, JavaScript
+* **Frameworki ML/DL:** PyTorch, TensorFlow, LangChain, LlamaIndex, Scikit-learn, Pandas, 
+* **Przetwarzanie Języka Naturalnego (NLP):** Transformers, RAG (Retrieval-Augmented Generation),
 * **Uczenie przez Wzmacnianie (Reinforcement Learning)**
 
 ---
 
 ### ☁️ Chmura i DevOps
-* **Konteneryzacja i Orkestracja:** Docker, Kubernetes
-* **Dostawcy Chmury:** Google Cloud Platform (GCP), AWS
+* **Konteneryzacja i Orkestracja:** Docker
+* **Dostawcy Chmury:** Google Cloud Platform (GCP)
 * **Infrastruktura jako Kod (IaC):** Terraform
 * **CI/CD:** GitHub Actions
 
 ---
 ### 🗃️ Bazy Danych
-* **Wektorowe:** Pinecone, Weaviate
+* **Wektorowe:** CHromaDM
 * **Grafowe:** Neo4j
 * **SQL/NoSQL:** PostgreSQL, MongoDB
