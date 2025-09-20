@@ -98,7 +98,7 @@ Technologia jest potężnym narzędziem, ale jej prawdziwa wartość uwalnia si�
 #### Biznes, Strategia i Zarządzanie
 * **Przedsiębiorczość i Zarządzanie:** Praktyczne doświadczenie w prowadzeniu działalności, które nauczyło mnie przekuwania wizji w działające procesy, zarządzania zasobami i orientacji na wynik.
 * **Finanse i Inwestycje:** Analityczne podejście do oceny ryzyka, potencjalnego zwrotu z inwestycji (ROI) i wartości projektów technologicznych.
-* **Strategia i Podejmowanie Decyzji:** Stosowanie frameworków do podejmowania optymalnych decyzji w warunkach niepewności, wywodzących się z dekady doświadczeń w profesjonalnym pokerze.
+* **Strategia i Podejmowanie Decyzji:** Stosowanie frameworków do podejmowania optymalnych decyzji w warunkach niepewności, wywodzących się z dekady doświadczeń w profesjonalnym **pokerze**.
 
 #### Nauki o Człowieku i Poznaniu
 * **Psychologia i Kognitywistyka:** Czerpanie wiedzy o tym, jak ludzie myślą, uczą się, popełniają błędy i wchodzą w interakcje, co jest niezbędne do projektowania systemów AI działających w prawdziwej symbiozie z człowiekiem.
@@ -106,9 +106,9 @@ Technologia jest potężnym narzędziem, ale jej prawdziwa wartość uwalnia si�
 * **Edukacja i Transfer Wiedzy:** Umiejętność syntetyzowania złożonych tematów i przekazywania ich w prosty, zrozumiały sposób, co jest kluczowe w prowadzeniu szkoleń i budowaniu kompetencji w zespołach.
 
 #### Nauki Przyrodnicze i Inspiracje Systemowe
+* **Fizyka i Teoria Systemów Złożonych:** Rozumienie fundamentalnych zasad rządzących energią, informacją i materią (np. termodynamika, teoria chaosu). Traktowanie tych koncepcji jako potężnych metafor do analizy stabilności, przepływu informacji i zachowań emergentnych w systemach AI.
 * **Biologia i Biomimikra:** Czerpanie inspiracji z natury – od inteligencji rojowej mrówek, przez strukturę sieci neuronowych, po procesy ewolucyjne – jako wzorców dla wydajnych i odpornych systemów technologicznych.
 * **Zdrowy Styl Życia:** Postrzeganie zdrowia jako złożonego, dynamicznego systemu, co wzmacnia holistyczne podejście do analizy i optymalizacji wszelkich innych systemów.
-
 ---
 
 ## 🧭 Filozofia i Autorskie Metodologie Pracy
