@@ -68,71 +68,6 @@ Użyj poniższej mapy, aby nawigować po kluczowych obszarach mojej działalnoś
 
 ---
 
-### 🚀 Kluczowe Projekty i Inicjatywy
-
-To nie tylko koncepcje, to działające prototypy i systemy, które aktywnie rozwijam. Każdy projekt to krok w stronę bardziej intuicyjnej i symbiotycznej interakcji z AI.
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🤖 Agent Orchestrator</h4>
-      <blockquote>
-        Prototyp systemu do dynamicznego zarządzania, koordynowania i monitorowania roju agentów AI, realizujących złożone, wieloetapowe zadania.
-      </blockquote>
-      <p>
-        <kbd>Systemy Agentowe</kbd> <kbd>Python</kbd> <kbd>Orkiestracja</kbd>
-      </p>
-      <p align="right">
-        <a href="UZUPEŁNIJ LINK DO REPOZYTORIUM"><strong>Zobacz Repozytorium →</strong></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🧠 INTELIGENTNY ASYSTENT AI</h4>
-      <blockquote>
-        Spersonalizowany, proaktywny asystent oparty na architekturze RAG, zdolny do głębokiego rozumienia kontekstu i wspierania użytkownika w zadaniach analitycznych.
-      </blockquote>
-      <p>
-        <kbd>RAG</kbd> <kbd>LangChain</kbd> <kbd>Vector DB</kbd>
-      </p>
-      <p align="right">
-        <a href="UZUPEŁNIJ LINK DO REPOZYTORIUM"><strong>Zobacz Repozytorium →</strong></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💬 Język Programowania w Przestrzeni Konwersacji</h4>
-      <blockquote>
-        Badanie i rozwój metodologii traktowania języka naturalnego jako w pełni funkcjonalnego języka programowania do sterowania złożonymi systemami AI.
-      </blockquote>
-      <p>
-        <kbd>Inżynieria Języka</kbd> <kbd>LLM</kbd> <kbd>R&D</kbd>
-      </p>
-      <p align="right">
-        <a href="UZUPEŁNIJ LINK DO REPOZYTORIUM"><strong>Zobacz Repozytorium →</strong></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📚 INTELIGENTNA BAZA WIEDZY</h4>
-      <blockquote>
-        System do zarządzania wiedzą, który wykorzystuje techniki semantycznego wyszukiwania do tworzenia interaktywnego, "żywego" repozytorium informacji.
-      </blockquote>
-      <p>
-        <kbd>Semantic Search</kbd> <kbd>NLP</kbd> <kbd>ETL</kbd>
-      </p>
-      <p align="right">
-        <a href="UZUPEŁNIJ LINK DO REPOZYTORIUM"><strong>Zobacz Repozytorium →</strong></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<p align="right">
-  <a href="./ARCHITEKT.md#📂-wybrane-projekty-i-studia-przypadków"><strong>Zobacz pełną listę projektów i studiów przypadku →</strong></a>
-</p>
-
----
-
 ### 🔭 Mapa Drogowa: Badania i Rozwój
 
 Moja mapa drogowa ma dwa tory: ciągłe pogłębianie wiedzy teoretycznej oraz systematyczne budowanie działających prototypów. Poniżej znajdują się kluczowe obszary, na których obecnie się koncentruję.
@@ -142,13 +77,18 @@ Moja mapa drogowa ma dwa tory: ciągłe pogłębianie wiedzy teoretycznej oraz s
     <td width="50%" valign="top">
       <h4>🧠 Główne Kierunki Badań</h4>
       <blockquote>
-        To pytania, które napędzają moją ciekawość i długoterminowe eksperymenty.
+        To fundamentalne pytania, które napędzają moją ciekawość i długoterminowe eksperymenty. Definiują one granice, które staram się przesuwać.
       </blockquote>
-      <ul>
-        <li>🔬 Badanie <strong>przejść fazowych i zachowań emergentnych</strong> w symulowanych systemach wieloagentowych.</li>
-        <li>🕸️ Projektowanie alternatywnych, <strong>niehierarchicznych architektur poznawczych</strong> (np. "Kłącze Poznawcze").</li>
-        <li>🏆 Praktyczne zastosowanie <strong>"Protokołu Transferu Mistrzostwa"</strong> do przyspieszonego uczenia (ludzi i AI).</li>
-      </ul>
+      <dl>
+        <dt><strong>🔬 Emergencja i Samoorganizacja</strong></dt>
+        <dd>Badanie momentu, w którym ilość przechodzi w jakość – kiedy proste, lokalne interakcje autonomicznych agentów prowadzą do powstania złożonej, globalnej inteligencji. Moje badania skupiają się na identyfikacji warunków początkowych i protokołów komunikacji, które pozwalają <em>świadomie projektować</em> systemy, w których pożądane zachowania inteligentne wyłaniają się w sposób przewidywalny, a nie przypadkowy.</dd>
+        <br>
+        <dt><strong>🕸️ Architektury Niehierarchiczne ("Kłącze Poznawcze")</strong></dt>
+        <dd>Eksploracja alternatyw dla tradycyjnych, scentralizowanych architektur AI. Inspirowane filozoficzną koncepcją kłącza, projektuję systemy, które są zdecentralizowane, plastyczne i odporne na błędy – bez jednego "mózgu", ale z inteligencją rozproszoną po całej sieci. Celem jest tworzenie systemów AI, które są bardziej adaptacyjne i kreatywne niż ich sztywne, hierarchiczne odpowiedniki.</dd>
+        <br>
+        <dt><strong>🏆 Kodyfikacja i Transfer Mistrzostwa</strong></dt>
+        <dd>Próba odpowiedzi na jedno z najtrudniejszych pytań: jak skodyfikować cichą wiedzę (<em>tacit knowledge</em>), intuicję i doświadczenie ludzkiego mistrza w powtarzalny, transferowalny protokół? Moja praca nad "Protokołem Transferu Mistrzostwa" ma na celu stworzenie metodologii, która pozwoli na przyspieszone uczenie zarówno ludzi (poprzez ustrukturyzowane modele mentalne), jak i systemów AI (poprzez "zaszczepianie" im skondensowanej ludzkiej ekspertyzy).</dd>
+      </dl>
     </td>
     <td width="50%" valign="top">
       <h4>🛠️ Główne kierunki projektowe</h4>
