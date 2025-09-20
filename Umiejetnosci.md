@@ -86,15 +86,28 @@ To praktyczne narzędzia do automatyzacji, budowy prototypów i "ożywiania" kon
 
 ---
 
-## 📈 Biznes i Kompetencje Miękkie
+## 🌍 Interdyscyplinarne Domeny Wiedzy
 
-Technologia jest tylko środkiem do celu. Te kompetencje pozwalają zrozumieć cel, zdefiniować problem i skutecznie komunikować rozwiązanie.
+Technologia jest potężnym narzędziem, ale jej prawdziwa wartość uwalnia się dopiero po połączeniu z głębokim zrozumieniem różnych dziedzin świata. Poniższe obszary wiedzy stanowią dla mnie źródło inspiracji, analogii i modeli myślowych, które wzbogacają moje podejście do inżynierii AI.
 
-* **Doświadczenie Przedsiębiorcze:** Prowadzenie własnej działalności gospodarczej przez 2 lata – praktyczna lekcja zarządzania, finansów i strategii.
-* **Wiedza Domenowa:** Zdrowy styl życia, finanse, inwestycje, psychologia, teoria gier.
-* **Transfer Wiedzy:** Doświadczenie w prowadzeniu szkoleń dla użytkowników i pracowników, umiejętność tłumaczenia złożonych koncepcji na zrozumiały język.
-* **Zdolności Analityczne:** Silne podstawy matematyki i statystyki.
-* **Rozwiązywanie Problemów:** Zdolność do dekompozycji złożonych problemów i myślenia w sposób ustrukturyzowany.
+#### Nauki Formalne i Analityczne
+* **Matematyka i Statystyka:** Traktowanie ich jako uniwersalnego języka opisu rzeczywistości, niezbędnego do zrozumienia, jak modele uczą się, rozumują i generalizują wiedzę.
+* **Teoria Gier:** Wykorzystywanie jej do modelowania strategicznych interakcji, co jest kluczowe w projektowaniu systemów wieloagentowych, negocjacjach i analizie konkurencji.
+* **Logika i Filozofia:** Stosowanie ich jako fundamentu do budowania spójnych systemów rozumowania, weryfikacji hipotez oraz analizy etycznych implikacji tworzonych technologii.
+
+#### Biznes, Strategia i Zarządzanie
+* **Przedsiębiorczość i Zarządzanie:** Praktyczne doświadczenie w prowadzeniu działalności, które nauczyło mnie przekuwania wizji w działające procesy, zarządzania zasobami i orientacji na wynik.
+* **Finanse i Inwestycje:** Analityczne podejście do oceny ryzyka, potencjalnego zwrotu z inwestycji (ROI) i wartości projektów technologicznych.
+* **Strategia i Podejmowanie Decyzji:** Stosowanie frameworków do podejmowania optymalnych decyzji w warunkach niepewności, wywodzących się z dekady doświadczeń w profesjonalnym pokerze.
+
+#### Nauki o Człowieku i Poznaniu
+* **Psychologia i Kognitywistyka:** Czerpanie wiedzy o tym, jak ludzie myślą, uczą się, popełniają błędy i wchodzą w interakcje, co jest niezbędne do projektowania systemów AI działających w prawdziwej symbiozie z człowiekiem.
+* **Zarządzanie Wiedzą:** Wykorzystywanie metodologii przechwytywania, kategoryzowania i udostępniania wiedzy w celu budowy inteligentnych, "żywych" baz danych.
+* **Edukacja i Transfer Wiedzy:** Umiejętność syntetyzowania złożonych tematów i przekazywania ich w prosty, zrozumiały sposób, co jest kluczowe w prowadzeniu szkoleń i budowaniu kompetencji w zespołach.
+
+#### Nauki Przyrodnicze i Inspiracje Systemowe
+* **Biologia i Biomimikra:** Czerpanie inspiracji z natury – od inteligencji rojowej mrówek, przez strukturę sieci neuronowych, po procesy ewolucyjne – jako wzorców dla wydajnych i odpornych systemów technologicznych.
+* **Zdrowy Styl Życia:** Postrzeganie zdrowia jako złożonego, dynamicznego systemu, co wzmacnia holistyczne podejście do analizy i optymalizacji wszelkich innych systemów.
 
 ---
 
