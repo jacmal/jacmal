@@ -3,7 +3,7 @@
 > Tworzę hybrydowe systemy, w których człowiek dostarcza cel i mądrość, a AI skalowalną moc obliczeniową i dostęp do wiedzy. Moim celem jest przekształcanie języka naturalnego w ostateczny język programowania do projektowania i debugowania złożonych systemów poznawczych.
 
 * **LinkedIn:** [linkedin.com/in/jacek-małecki](https://www.linkedin.com/in/jacek-ma%C5%82ecki-01bab91b6/)
-* **Kontakt:** [jacmal86@gmail.com]
+* **Kontakt:** [jacmal86@gmail.com](jacmal86@gmail.com)
 
 ---
 
