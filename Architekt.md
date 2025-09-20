@@ -5,7 +5,7 @@ Witaj. Jestem niezależnym badaczem i inżynierem specjalizującym się w projek
 
 W tym repozytorium znajdziesz przykłady moich prac, studiów przypadku i autorskich metodologii.
 
-* **LinkedIn:** [Link do Twojego profilu na LinkedIn]
+[* **LinkedIn:**](https://www.linkedin.com/in/jacek-ma%C5%82ecki-01bab91b6/)
 * **Kontakt:** [Twój adres e-mail]
 
 ---
