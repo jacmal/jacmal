@@ -135,7 +135,7 @@ To nie tylko koncepcje, to działające prototypy i systemy, które aktywnie roz
 
 ### 🔭 Mapa Drogowa: Badania i Rozwój
 
-Moja mapa drogowa ma dwa tory: ciągłe pogłębianie wiedzy teoretycznej oraz systematyczne zdobywanie praktycznych umiejętności inżynierskich. Poniżej znajdują się kluczowe obszary, na których obecnie się koncentruję.
+Moja mapa drogowa ma dwa tory: ciągłe pogłębianie wiedzy teoretycznej oraz systematyczne budowanie działających prototypów. Poniżej znajdują się kluczowe obszary, na których obecnie się koncentruję.
 
 <table width="100%">
   <tr>
@@ -153,12 +153,12 @@ Moja mapa drogowa ma dwa tory: ciągłe pogłębianie wiedzy teoretycznej oraz s
     <td width="50%" valign="top">
       <h4>🛠️ Główne kierunki projektowe</h4>
       <blockquote>
-        To konkretne umiejętności i projekty, które realizuję, aby przekuwać teorię w praktykę.
+        Moja praca projektowa koncentruje się na trzech głównych filarach, które przekuwają teorię w działające systemy.
       </blockquote>
       <ul>
-        <li>🔥 <strong>Priorytet 1:</strong> Opanowanie <kbd>MLOps</kbd> (<kbd>Docker</kbd>, <kbd>Kubernetes</kbd>) oraz ekosystemu <kbd>Google Cloud Platform (GCP)</kbd> do wdrażania i skalowania modeli AI.</li>
-        <li>🎯 <strong>Priorytet 2:</strong> Zbudowanie 2-3 kompleksowych projektów do <strong>publicznego portfolio</strong>, demonstrujących unikalne zdolności.</li>
-        <li>🔭 <strong>Dalsze kierunki:</strong> Pogłębianie wiedzy z zakresu <strong>zaawansowanego bezpieczeństwa IT</strong> w kontekście AI oraz automatyzacji <kbd>IaC</kbd> (<kbd>Ansible</kbd>/<kbd>Terraform</kbd>).</li>
+        <li>🚀 <strong>Architektura Systemów Autonomicznych:</strong> Rozwój zdecentralizowanych systemów wieloagentowych, w których autonomiczne jednostki współpracują nad złożonymi zadaniami. <br> <i>Flagowy projekt: <a href="UZUPEŁNIJ LINK">Agent Orchestrator</a></i>.</li>
+        <li>💬 <strong>Język jako Interfejs Programistyczny:</strong> Traktowanie języka naturalnego jako kodu. Budowa narzędzi i metodologii do programowania i komunikacji z AI na wyższym poziomie abstrakcji. <br> <i>Flagowy projekt: <a href="UZUPEŁNIJ LINK">Język Programowania w Przestrzeni Konwersacji</a></i>.</li>
+        <li>🦾 <strong>Narzędzia Augmentacji Intelektualnej:</strong> Tworzenie praktycznych, symbiotycznych narzędzi, które rozszerzają ludzkie możliwości w zakresie analizy i zarządzania wiedzą. <br> <i>Flagowe projekty: <a href="UZUPEŁNIJ LINK">INTELIGENTNY ASYSTENT AI</a>, <a href="UZUPEŁNIJ LINK">INTELIGENTNA BAZA WIEDZY</a></i>.</li>
       </ul>
     </td>
   </tr>
