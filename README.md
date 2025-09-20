@@ -70,16 +70,65 @@ Użyj poniższej mapy, aby nawigować po kluczowych obszarach mojej działalnoś
 
 ### 🚀 Kluczowe Projekty i Inicjatywy
 
-To nie tylko koncepcje, to działające prototypy i systemy, które rozwijam.
+To nie tylko koncepcje, to działające prototypy i systemy, które aktywnie rozwijam. Każdy projekt to krok w stronę bardziej intuicyjnej i symbiotycznej interakcji z AI.
 
-| Projekt | Opis | Technologie |
-| :--- | :--- | :--- |
-| 🧠 **Genesis OS Lite** | Wieloagentowy system operacyjny do zarządzania zadaniami w przestrzeni konwersacji. | <kbd>Python</kbd> <kbd>LangChain</kbd> <kbd>Vector DB</kbd> |
-| 💬 **Język Analogii 2.0** | Język programowania wysokiego poziomu, oparty na analogiach, do sterowania systemami AI. | <kbd>AI Concepts</kbd> <kbd>R&D</kbd> |
-| 🧩 **Biblioteka Wzorców Pozn.** | Zbiór reużywalnych, skodyfikowanych procedur i wzorców dla inteligentnych systemów. | <kbd>Methodology</kbd> <kbd>Python</p> |
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 Agent Orchestrator</h4>
+      <blockquote>
+        Prototyp systemu do dynamicznego zarządzania, koordynowania i monitorowania roju agentów AI, realizujących złożone, wieloetapowe zadania.
+      </blockquote>
+      <p>
+        <kbd>Systemy Agentowe</kbd> <kbd>Python</kbd> <kbd>Orkiestracja</kbd>
+      </p>
+      <p align="right">
+        <a href="UZUPEŁNIJ LINK DO REPOZYTORIUM"><strong>Zobacz Repozytorium →</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧠 INTELIGENTNY ASYSTENT AI</h4>
+      <blockquote>
+        Spersonalizowany, proaktywny asystent oparty na architekturze RAG, zdolny do głębokiego rozumienia kontekstu i wspierania użytkownika w zadaniach analitycznych.
+      </blockquote>
+      <p>
+        <kbd>RAG</kbd> <kbd>LangChain</kbd> <kbd>Vector DB</kbd>
+      </p>
+      <p align="right">
+        <a href="UZUPEŁNIJ LINK DO REPOZYTORIUM"><strong>Zobacz Repozytorium →</strong></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💬 Język Programowania w Przestrzeni Konwersacji</h4>
+      <blockquote>
+        Badanie i rozwój metodologii traktowania języka naturalnego jako w pełni funkcjonalnego języka programowania do sterowania złożonymi systemami AI.
+      </blockquote>
+      <p>
+        <kbd>Inżynieria Języka</kbd> <kbd>LLM</kbd> <kbd>R&D</kbd>
+      </p>
+      <p align="right">
+        <a href="UZUPEŁNIJ LINK DO REPOZYTORIUM"><strong>Zobacz Repozytorium →</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📚 INTELIGENTNA BAZA WIEDZY</h4>
+      <blockquote>
+        System do zarządzania wiedzą, który wykorzystuje techniki semantycznego wyszukiwania do tworzenia interaktywnego, "żywego" repozytorium informacji.
+      </blockquote>
+      <p>
+        <kbd>Semantic Search</kbd> <kbd>NLP</kbd> <kbd>ETL</kbd>
+      </p>
+      <p align="right">
+        <a href="UZUPEŁNIJ LINK DO REPOZYTORIUM"><strong>Zobacz Repozytorium →</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <p align="right">
-  <a href="./ARCHITEKT.md#📂-wybrane-projekty-i-studia-przypadków"><strong>Zobacz więcej projektów i studiów przypadku →</strong></a>
+  <a href="./ARCHITEKT.md#📂-wybrane-projekty-i-studia-przypadków"><strong>Zobacz pełną listę projektów i studiów przypadku →</strong></a>
 </p>
 
 ---
