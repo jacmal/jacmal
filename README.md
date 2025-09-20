@@ -133,12 +133,35 @@ To nie tylko koncepcje, to działające prototypy i systemy, które aktywnie roz
 
 ---
 
-### 🔭 Obecne Badania i Mapa Drogowa
+### 🔭 Mapa Drogowa: Badania i Rozwój
 
-Moje obecne zainteresowania i obszary aktywnej eksploracji:
+Moja mapa drogowa ma dwa tory: ciągłe pogłębianie wiedzy teoretycznej oraz systematyczne zdobywanie praktycznych umiejętności inżynierskich. Poniżej znajdują się kluczowe obszary, na których obecnie się koncentruję.
 
-* 🔬 Badanie **przejść fazowych i zachowań emergentnych** w symulowanych systemach wieloagentowych.
-* 🕸️ Projektowanie alternatywnych, **niehierarchicznych architektur poznawczych** (np. "Kłącze Poznawcze").
-* 🏆 Praktyczne zastosowanie **"Protokołu Transferu Mistrzostwa"** do przyspieszonego uczenia (zarówno ludzi, jak i AI).
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧠 Główne Kierunki Badań</h4>
+      <blockquote>
+        To pytania, które napędzają moją ciekawość i długoterminowe eksperymenty.
+      </blockquote>
+      <ul>
+        <li>🔬 Badanie <strong>przejść fazowych i zachowań emergentnych</strong> w symulowanych systemach wieloagentowych.</li>
+        <li>🕸️ Projektowanie alternatywnych, <strong>niehierarchicznych architektur poznawczych</strong> (np. "Kłącze Poznawcze").</li>
+        <li>🏆 Praktyczne zastosowanie <strong>"Protokołu Transferu Mistrzostwa"</strong> do przyspieszonego uczenia (ludzi i AI).</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛠️ Praktyczne Cele Rozwojowe</h4>
+      <blockquote>
+        To konkretne umiejętności i projekty, które realizuję, aby przekuwać teorię w praktykę.
+      </blockquote>
+      <ul>
+        <li>🔥 <strong>Priorytet 1:</strong> Opanowanie <kbd>MLOps</kbd> (<kbd>Docker</kbd>, <kbd>Kubernetes</kbd>) oraz ekosystemu <kbd>Google Cloud Platform (GCP)</kbd> do wdrażania i skalowania modeli AI.</li>
+        <li>🎯 <strong>Priorytet 2:</strong> Zbudowanie 2-3 kompleksowych projektów do <strong>publicznego portfolio</strong>, demonstrujących unikalne zdolności.</li>
+        <li>🔭 <strong>Dalsze kierunki:</strong> Pogłębianie wiedzy z zakresu <strong>zaawansowanego bezpieczeństwa IT</strong> w kontekście AI oraz automatyzacji <kbd>IaC</kbd> (<kbd>Ansible</kbd>/<kbd>Terraform</kbd>).</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
