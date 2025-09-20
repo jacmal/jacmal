@@ -43,6 +43,43 @@ Zestaw sprawdzonych w boju narzędzi, które pozwalają przekuwać idee w dział
 
 ---
 
+## 🌍 Interdyscyplinarne Domeny Wiedzy
+
+Technologia jest potężnym narzędziem, ale jej prawdziwa wartość uwalnia się dopiero po połączeniu z głębokim zrozumieniem różnych dziedzin świata. Poniższe obszary wiedzy stanowią dla mnie źródło inspiracji, analogii i modeli myślowych, które wzbogacają moje podejście do inżynierii AI.
+
+#### Nauki Formalne i Analityczne
+* **Matematyka i Statystyka:** Traktowanie ich jako uniwersalnego języka opisu rzeczywistości, niezbędnego do zrozumienia, jak modele uczą się, rozumują i generalizują wiedzę.
+* **Teoria Gier:** Wykorzystywanie jej do modelowania strategicznych interakcji, co jest kluczowe w projektowaniu systemów wieloagentowych, negocjacjach i analizie konkurencji.
+* **Logika i Filozofia:** Stosowanie ich jako fundamentu do budowania spójnych systemów rozumowania, weryfikacji hipotez oraz analizy etycznych implikacji tworzonych technologii.
+
+#### Biznes, Strategia i Zarządzanie
+* **Przedsiębiorczość i Zarządzanie:** Praktyczne doświadczenie w prowadzeniu działalności, które nauczyło mnie przekuwania wizji w działające procesy, zarządzania zasobami i orientacji na wynik.
+* **Finanse i Inwestycje:** Analityczne podejście do oceny ryzyka, potencjalnego zwrotu z inwestycji (ROI) i wartości projektów technologicznych.
+* **Strategia i Podejmowanie Decyzji:** Stosowanie frameworków do podejmowania optymalnych decyzji w warunkach niepewności, wywodzących się z dekady doświadczeń w profesjonalnym **pokerze**.
+
+#### Nauki o Człowieku i Poznaniu
+* **Psychologia i Kognitywistyka:** Czerpanie wiedzy o tym, jak ludzie myślą, uczą się, popełniają błędy i wchodzą w interakcje, co jest niezbędne do projektowania systemów AI działających w prawdziwej symbiozie z człowiekiem.
+* **Zarządzanie Wiedzą:** Wykorzystywanie metodologii przechwytywania, kategoryzowania i udostępniania wiedzy w celu budowy inteligentnych, "żywych" baz danych.
+* **Edukacja i Transfer Wiedzy:** Umiejętność syntetyzowania złożonych tematów i przekazywania ich w prosty, zrozumiały sposób, co jest kluczowe w prowadzeniu szkoleń i budowaniu kompetencji w zespołach.
+
+#### Nauki Przyrodnicze i Inspiracje Systemowe
+* **Fizyka i Teoria Systemów Złożonych:** Rozumienie fundamentalnych zasad rządzących energią, informacją i materią (np. termodynamika, teoria chaosu). Traktowanie tych koncepcji jako potężnych metafor do analizy stabilności, przepływu informacji i zachowań emergentnych w systemach AI.
+* **Biologia i Biomimikra:** Czerpanie inspiracji z natury – od inteligencji rojowej mrówek, przez strukturę sieci neuronowych, po procesy ewolucyjne – jako wzorców dla wydajnych i odpornych systemów technologicznych.
+* **Zdrowy Styl Życia:** Postrzeganie zdrowia jako złożonego, dynamicznego systemu, co wzmacnia holistyczne podejście do analizy i optymalizacji wszelkich innych systemów.
+
+---
+
+## 💻 Programowanie i Technologie Webowe
+
+To praktyczne narzędzia do automatyzacji, budowy prototypów i "ożywiania" koncepcji AI poprzez tworzenie skryptów i prostych interfejsów.
+
+* **Główny Język:** `Python` (**poziom średniozaawansowany**, 2-3 lata doświadczenia) w zastosowaniach AI, automatyzacji i skryptach.
+* **Kontrola Wersji:** Znajomość `Git` (branching, merging, commiting) do zarządzania kodem i współpracy.
+* **Technologie Webowe:** Podstawowa znajomość `HTML`, `CSS`, `JavaScript`.
+* **E-commerce:** Doświadczenie w uruchamianiu sklepów na platformie `Shopify`.
+
+---
+
 ## 🏗️ Infrastruktura, Chmura i Bezpieczeństwo
 
 To fundament, na którym opierają się wszystkie moje projekty AI. Dekada doświadczenia w IT gwarantuje, że budowane przeze mnie systemy są nie tylko inteligentne, ale także stabilne, skalowalne i bezpieczne.
@@ -73,42 +110,6 @@ Umiejętność zarządzania danymi i integracji z istniejącymi systemami biznes
 * **Język Zapytań:** Biegłe pisanie zapytań w `SQL` do ekstrakcji i manipulacji danymi.
 * **Systemy ERP:** Doświadczenie we wdrażaniu i administrowaniu `Comarch ERP XL`, dające zrozumienie logiki i procesów biznesowych.
 
----
-
-## 💻 Programowanie i Technologie Webowe
-
-To praktyczne narzędzia do automatyzacji, budowy prototypów i "ożywiania" koncepcji AI poprzez tworzenie skryptów i prostych interfejsów.
-
-* **Główny Język:** `Python` (**poziom średniozaawansowany**, 2-3 lata doświadczenia) w zastosowaniach AI, automatyzacji i skryptach.
-* **Kontrola Wersji:** Znajomość `Git` (branching, merging, commiting) do zarządzania kodem i współpracy.
-* **Technologie Webowe:** Podstawowa znajomość `HTML`, `CSS`, `JavaScript`.
-* **E-commerce:** Doświadczenie w uruchamianiu sklepów na platformie `Shopify`.
-
----
-
-## 🌍 Interdyscyplinarne Domeny Wiedzy
-
-Technologia jest potężnym narzędziem, ale jej prawdziwa wartość uwalnia się dopiero po połączeniu z głębokim zrozumieniem różnych dziedzin świata. Poniższe obszary wiedzy stanowią dla mnie źródło inspiracji, analogii i modeli myślowych, które wzbogacają moje podejście do inżynierii AI.
-
-#### Nauki Formalne i Analityczne
-* **Matematyka i Statystyka:** Traktowanie ich jako uniwersalnego języka opisu rzeczywistości, niezbędnego do zrozumienia, jak modele uczą się, rozumują i generalizują wiedzę.
-* **Teoria Gier:** Wykorzystywanie jej do modelowania strategicznych interakcji, co jest kluczowe w projektowaniu systemów wieloagentowych, negocjacjach i analizie konkurencji.
-* **Logika i Filozofia:** Stosowanie ich jako fundamentu do budowania spójnych systemów rozumowania, weryfikacji hipotez oraz analizy etycznych implikacji tworzonych technologii.
-
-#### Biznes, Strategia i Zarządzanie
-* **Przedsiębiorczość i Zarządzanie:** Praktyczne doświadczenie w prowadzeniu działalności, które nauczyło mnie przekuwania wizji w działające procesy, zarządzania zasobami i orientacji na wynik.
-* **Finanse i Inwestycje:** Analityczne podejście do oceny ryzyka, potencjalnego zwrotu z inwestycji (ROI) i wartości projektów technologicznych.
-* **Strategia i Podejmowanie Decyzji:** Stosowanie frameworków do podejmowania optymalnych decyzji w warunkach niepewności, wywodzących się z dekady doświadczeń w profesjonalnym **pokerze**.
-
-#### Nauki o Człowieku i Poznaniu
-* **Psychologia i Kognitywistyka:** Czerpanie wiedzy o tym, jak ludzie myślą, uczą się, popełniają błędy i wchodzą w interakcje, co jest niezbędne do projektowania systemów AI działających w prawdziwej symbiozie z człowiekiem.
-* **Zarządzanie Wiedzą:** Wykorzystywanie metodologii przechwytywania, kategoryzowania i udostępniania wiedzy w celu budowy inteligentnych, "żywych" baz danych.
-* **Edukacja i Transfer Wiedzy:** Umiejętność syntetyzowania złożonych tematów i przekazywania ich w prosty, zrozumiały sposób, co jest kluczowe w prowadzeniu szkoleń i budowaniu kompetencji w zespołach.
-
-#### Nauki Przyrodnicze i Inspiracje Systemowe
-* **Fizyka i Teoria Systemów Złożonych:** Rozumienie fundamentalnych zasad rządzących energią, informacją i materią (np. termodynamika, teoria chaosu). Traktowanie tych koncepcji jako potężnych metafor do analizy stabilności, przepływu informacji i zachowań emergentnych w systemach AI.
-* **Biologia i Biomimikra:** Czerpanie inspiracji z natury – od inteligencji rojowej mrówek, przez strukturę sieci neuronowych, po procesy ewolucyjne – jako wzorców dla wydajnych i odpornych systemów technologicznych.
-* **Zdrowy Styl Życia:** Postrzeganie zdrowia jako złożonego, dynamicznego systemu, co wzmacnia holistyczne podejście do analizy i optymalizacji wszelkich innych systemów.
 ---
 
 ## 🧭 Filozofia i Autorskie Metodologie Pracy
