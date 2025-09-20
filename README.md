@@ -1,67 +1,95 @@
-# Cześć, jestem Jacek / jacmal 👋
-### Prompt Inżynier | Architekt Systemów Wielo-Agentowych i Poznawczych | Badacz AI
+# Architekt Inżynierii Poznawczej
 
-Projektuję i buduję systemy inteligentne. Poniżej znajdziesz mapę – od osobistej historii, przez filozofię pracy, po konkretne projekty i modele teoretyczne.
+> Buduję systemy AI, które nie tylko automatyzują zadania, ale **rozszerzają ludzką myśl i kreatywność**. Moja praca to połączenie inżynierskiej dyscypliny, strategicznego myślenia i głębokiego zrozumienia interakcji człowiek-maszyna.
 
-Witaj. Jestem niezależnym badaczem i inżynierem specjalizującym się w projektowaniu, budowie i optymalizacji złożonych, autonomicznych systemów AI. Moje prace koncentrują się na praktycznych zastosowaniach modeli językowych w architekturach wieloagentowych oraz na tworzeniu wysoce efektywnych i niezawodnych metod interakcji.
+<p align="center">
+  <a href="UZUPEŁNIJ LINK DO LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:UZUPEŁNIJ ADRES E-MAIL" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-W tym repozytorium znajdziesz przykłady moich prac, studiów przypadku i autorskich metodologii.
+---
 
-* **LinkedIn:** [Link do Twojego profilu na LinkedIn]
-* **Kontakt:** [Twój adres e-mail]
+### 👋 Cześć, jestem Jacek
+
+Moja podróż zaczęła się od ponad dekady spędzonej w świecie **infrastruktury IT**, gdzie nauczyłem się głębokiego szacunku do systemów, niezawodności i myślenia w kategoriach przyczynowo-skutkowych. Dziś tę samą inżynierską dyscyplinę stosuję w świecie **Sztucznej Inteligencji**, projektując złożone architektury poznawcze i systemy wieloagentowe.
 
 ---
 
-## Kluczowe Kompetencje i Zakres Działania
+### 🗺️ Mapa Mojej Pracy: Główne Ścieżki
 
-####  Filozofia i Paradygmaty
+Użyj poniższej mapy, aby nawigować po kluczowych obszarach mojej działalności.
 
-#### Inżynieria Promptów i Metodologii AI
-* Opracowywanie i wdrażanie zaawansowanych, wieloetapowych łańcuchów promptów, które zapewniają wysoką spójność i niezawodność odpowiedzi AI.
-* Tworzenie reużywalnych "klocków poznawczych" – sformalizowanych procedur do rozwiązywania powtarzalnych problemów z zakresu analizy, syntezy danych i podejmowania decyzji.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📜 Manifest i Filozofia</h3>
+      <blockquote>
+        Zbiór fundamentalnych zasad, które kierują moją pracą. Jeśli chcesz zrozumieć, <strong>dlaczego</strong> buduję systemy w określony sposób – to jest właściwe miejsce.
+      </blockquote>
+      <p align="right">
+        <a href="./MANIFEST.md"><strong>Czytaj Manifest →</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>👤 Biografia i Portfolio</h3>
+      <blockquote>
+        Moja historia, doświadczenie i szczegółowe opisy kluczowych projektów. Jeśli chcesz wiedzieć, <strong>kim jestem</strong> i co do tej pory zbudowałem – zacznij tutaj.
+      </blockquote>
+      <p align="right">
+        <a href="./ARCHITEKT.md"><strong>Zobacz Portfolio →</strong></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛠️ Mapa Umiejętności</h3>
+      <blockquote>
+        Szczegółowy i ustrukturyzowany wykaz moich kompetencji technicznych, domen wiedzy i autorskich metodologii. Zobacz, <strong>czym dysponuję</strong>.
+      </blockquote>
+      <p align="right">
+        <a href="./Umiejetnosci.md"><strong>Przeglądaj Umiejętności →</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 Biblioteka Wiedzy</h3>
+      <blockquote>
+        Mój publiczny "cyfrowy ogród" i laboratorium. Zobacz, nad czym aktualnie pracuję, eksploruj idee w toku i obserwuj proces twórczy na żywo.
+      </blockquote>
+      <p align="right">
+        <a href="https://github.com/jacmal/Laboratorium_Poznawcze"><strong>Wejdź do Laboratorium →</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-####  Architektura Systemów Wieloagentowych
-* Projektowanie i implementacja hierarchicznych oraz zdecentralizowanych systemów, w których wielu autonomicznych agentów AI efektywnie współpracuje w celu realizacji złożonych zadań.
-* Tworzenie niestandardowych protokołów komunikacji, negocjacji i alokacji zasobów między agentami.
-
-#### Badania i Rozwój w Stosowanej AI
-* Prowadzenie praktycznych badań nad zachowaniami emergentnymi w systemach wieloagentowych.
-* Tworzenie i testowanie niestandardowych architektur poznawczych na potrzeby specyficznych problemów biznesowych i analitycznych.
-
----
-## [➡️ Przejdź do Spisu Treści (Mapa)](./Spis_Tresci.md)
----
-
-### Ścieżki do Poznania Mojej Pracy:
-
-* 👤 **[O Mnie](./Architekt.md)**
-    > *Moja historia, doświadczenie i kluczowe projekty. Jeśli chcesz wiedzieć, kim jestem i co do tej pory zbudowałem – zacznij tutaj.*
-
-* 📜 **[Mój Manifest i Filozofia](link-do-repo-atlasu/Manifest_Architekta.md)**
-    > *Zbiór fundamentalnych zasad, które kierują moją pracą. Jeśli chcesz zrozumieć, **dlaczego** buduję systemy w określony sposób – to jest właściwe miejsce.*
-
-* 🗺️ **[Atlas Wiedzy AI (Model Dojrzałości)](https://github.com/jacmal/Biblioteka_Wiedzy)**
-    > *Kompletna mapa i taksonomia architektur poznawczych. Jeśli chcesz zgłębić **jak** strukturyzuję i klasyfikuję systemy AI – zanurz się w mojej bibliotece.*
-
-* 🧠 **[Wejdź do Laboratorium Poznawczego](https://github.com/jacmal/Laboratorium_Poznawcze)**
-    > *To jest serce moich bieżących badań i eksperymentów. Miejsce, gdzie "zaszczepiam" i rozwijam nowe myśli, zanim staną się częścią ugruntowanej wiedzy.*
 ---
 
 ### 🚀 Kluczowe Projekty i Inicjatywy
 
-* **[Genesis OS Lite](./link-do-repo-genesis)**: Wieloagentowy system operacyjny przestrzeni konwersacji.
-* **[Język Analogii 2.0](./link-do-repo-jezyka)**: Język programowania w przestrzeni konwersacji.
-* **[Biblioteka Wzorców Poznawczych](./link-do-repo-wzorcow)**: Zbiór reużywalnych wzorców dla inteligentnych systemów.
+To nie tylko koncepcje, to działające prototypy i systemy, które rozwijam.
+
+| Projekt | Opis | Technologie |
+| :--- | :--- | :--- |
+| 🧠 **Genesis OS Lite** | Wieloagentowy system operacyjny do zarządzania zadaniami w przestrzeni konwersacji. | <kbd>Python</kbd> <kbd>LangChain</kbd> <kbd>Vector DB</kbd> |
+| 💬 **Język Analogii 2.0** | Język programowania wysokiego poziomu, oparty na analogiach, do sterowania systemami AI. | <kbd>AI Concepts</kbd> <kbd>R&D</kbd> |
+| 🧩 **Biblioteka Wzorców Pozn.** | Zbiór reużywalnych, skodyfikowanych procedur i wzorców dla inteligentnych systemów. | <kbd>Methodology</kbd> <kbd>Python</p> |
+
+<p align="right">
+  <a href="./ARCHITEKT.md#📂-wybrane-projekty-i-studia-przypadków"><strong>Zobacz więcej projektów i studiów przypadku →</strong></a>
+</p>
 
 ---
 
-### 🔭 Mapa Drogowa (Obecne Badania)
+### 🔭 Obecne Badania i Mapa Drogowa
 
-Moje obecne zainteresowania skupiają się na:
-* Badaniu przejść fazowych i zachowań emergentnych w symulowanych systemach wieloagentowych.
-* Projektowaniu alternatywnych, niehierarchicznych architektur poznawczych (np. "Kłącze Poznawcze").
-* Praktycznym zastosowaniu "Protokółu Transferu Mistrzostwa" do przyspieszonego uczenia (zarówno ludzi, jak i AI).
+Moje obecne zainteresowania i obszary aktywnej eksploracji:
+
+* 🔬 Badanie **przejść fazowych i zachowań emergentnych** w symulowanych systemach wieloagentowych.
+* 🕸️ Projektowanie alternatywnych, **niehierarchicznych architektur poznawczych** (np. "Kłącze Poznawcze").
+* 🏆 Praktyczne zastosowanie **"Protokołu Transferu Mistrzostwa"** do przyspieszonego uczenia (zarówno ludzi, jak i AI).
 
 ---
-
-### 🏛️ Publikacje
