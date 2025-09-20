@@ -5,4 +5,4 @@ graph TD
     B -- Nie --> D[Akcja 2];
     C --> E[Koniec];
     D --> E;
-    '''
+'''
