@@ -151,7 +151,7 @@ Moja mapa drogowa ma dwa tory: ciągłe pogłębianie wiedzy teoretycznej oraz s
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🛠️ Praktyczne Cele Rozwojowe</h4>
+      <h4>🛠️ Główne kierunki projektowe</h4>
       <blockquote>
         To konkretne umiejętności i projekty, które realizuję, aby przekuwać teorię w praktykę.
       </blockquote>
