@@ -40,7 +40,7 @@ Użyj poniższej mapy, aby nawigować po kluczowych obszarach mojej działalnoś
         Moja historia, doświadczenie i szczegółowe opisy kluczowych projektów. Jeśli chcesz wiedzieć, <strong>kim jestem</strong> i co do tej pory zbudowałem – zacznij tutaj.
       </blockquote>
       <p align="right">
-        <a href="./ARCHITEKT.md"><strong>Zobacz Portfolio →</strong></a>
+        <a href="./Architekt.md"><strong>Zobacz Portfolio →</strong></a>
       </p>
     </td>
   </tr>
