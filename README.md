@@ -31,7 +31,7 @@ Użyj poniższej mapy, aby nawigować po kluczowych obszarach mojej działalnoś
         Zbiór fundamentalnych zasad, które kierują moją pracą. Jeśli chcesz zrozumieć, <strong>dlaczego</strong> buduję systemy w określony sposób – to jest właściwe miejsce.
       </blockquote>
       <p align="right">
-        <a href="./MANIFEST.md"><strong>Czytaj Manifest →</strong></a>
+        <a href="./Manifest_Architekta.md"><strong>Czytaj Manifest →</strong></a>
       </p>
     </td>
     <td width="50%" valign="top" style="border: none; padding: 10px;">
