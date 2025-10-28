@@ -1,5 +1,5 @@
-# 🧭 Nawigator po Ekosystemie Wiedzy
-  
+ z# 🧭 Nawigator po Ekosystemie Wiedzy
+
 > Witaj w centrum dowodzenia mojego świata. Ten dokument to interaktywna mapa, która poprowadzi Cię przez **ugruntowaną, skodyfikowaną wiedzę** oraz **dynamiczne, żywe laboratorium**, w którym rodzą się i ewoluują nowe idee.
 
 ---
@@ -18,13 +18,15 @@ Poniżej znajdują się główne filary mojego ekosystemu. Z lewej strony znajdz
 
 > Kompletny, modułowy zbiór wiedzy, zorganizowany według autorskiego **Modelu Dojrzałości**. Każdy poziom to dedykowane repozytorium.
 
-  - 🎓 **[Poziom 0:](https://github.com/jacmal/Fundamenty_Filozoficzne_i_Poznawcze_Biblioteka_Wiedzy)** Fundamenty Filozoficzne i Poznawcze
-  - 🧑‍🎓 **[Poziom 1:](https://github.com/jacmal/Uzytkownik_Entuzjasta_AI)** Użytkownik, Entuzjasta AI
-  - ✍️ **[Poziom 2:](https://github.com/jacmal/Prompt_Engineer)** Prompt Engineer
-  - 🧠 **[Poziom 3:](https://github.com/jacmal/Meta-Prompt_Engineer)** Meta Prompt Engineer
-  - 🏛️ **[Poziom 4:](https://github.com/jacmal/Architekt_Systemow_AI)** Architekt Systemów Wielo-Agentowych
-  - 🌱 **[Poziom 5:](./link-do-repo-poziom-5)** Architekt Systemów Ewolucyjnych *(w przygotowaniu)*
-  - 🌌 **[Poziom 6:](./link-do-repo-poziom-6)** Architekt Metasystemowy *(w przygotowaniu)*
+- 🎓 **[Poziom 0:](https://github.com/jacmal/Fundamenty_Filozoficzne_i_Poznawcze)** Fundamenty Filozoficzne i Poznawcze
+  
+- 🧑‍🎓 **[Poziom 1:](https://github.com/jacmal/Uzytkownik_Entuzjasta_AI)** Użytkownik, Entuzjasta AI
+  
+- ✍️ **[Poziom 2:](https://github.com/jacmal/Prompt_Engineer)** Prompt Engineer
+  
+- 🧠 **[Poziom 3:](https://github.com/jacmal/Meta-Prompt_Engineer)** Meta Prompt Engineer
+  
+- 🏛️ **[Poziom 4:](https://github.com/jacmal/Architekt_Systemow_AI)** Architekt Systemów Wielo-Agentowych
 
 </td>
 <td width="50%" valign="top">
@@ -33,21 +35,15 @@ Poniżej znajdują się główne filary mojego ekosystemu. Z lewej strony znajdz
 
 > To tutaj odbywają się bieżące badania i eksperymenty. Obserwuj proces twórczy na żywo.
 
-#### 🧠 Laboratorium Poznawcze
+- 🧪 **[HUB](https://github.com/jacmal/jacmal)** – Główne Repozytorium (SSOT dla Architektury)
+  - [📋 Architekt.md](/.ARCHITEKTURA/Architekt.md)
+  - [📜 Manifest Architekta](/.ARCHITEKTURA/Manifest_Architekta.md)
+  - [🛠️ Umiejętności](/.ARCHITEKTURA/Umiejetnosci.md)
+  - [💼 Projekty](/.ARCHITEKTURA/Projekty.md)
 
-> Główne repozytorium badawcze, gdzie rozwijane są nowe koncepcje, wzorce i metodologie.
+- 🌱 **[Cyfrowy Ogród](https://github.com/jacmal/Cyfrowy_Ogrod)** – Eksperymentalne notatki, szkice, niedokończone myśli
 
-<p align="right">
-<a href="https://github.com/jacmal/Laboratorium_Poznawcze"><strong>➡️ Wejdź do Laboratorium</strong></a>
-</p>
-
-#### 🛠️ Warsztat Cyfrowy
-
-> Przestrzeń eksperymentalna, w której testuję narzędzia, prototypy i koncepcje przed ich oficjalnym zakodowaniem.
-
-<p align="right">
-<a href="https://github.com/jacmal/Warsztat_Cyfrowy"><strong>➡️ Wejdź do Warsztatu</strong></a>
-</p>
+- 🗂️ **[Zasoby](https://github.com/jacmal/Zasoby)** – Boilerplates, szablony, generatory kodu
 
 </td>
 </tr>
@@ -55,81 +51,44 @@ Poniżej znajdują się główne filary mojego ekosystemu. Z lewej strony znajdz
 
 ---
 
-## 🧰 Główne Zasoby Ekosystemu
+## 🌐 Wizualizacja Struktury
 
-> Wszystkie kluczowe dokumenty, narzędzia i metadane opisujące strukturę i filozofię projektu.
-
-  - 📖 **[MANIFEST](./_MANIFEST.md)** — Podstawowe wartości i wizja architektury
-  - 📂 **[Struktura Katalogów](./STRUKTURA_KATALOGOW.md)** — Przewodnik po organizacji repozytorium
-  - 🗂️ **[Architektura Wiedzy](./ARCHITEKTURA_WIEDZY.md)** — Opis modułowej organizacji treści
-  - 🔗 **[Semantyczny System Tagów](./TAGI_SEMANTYCZNE.md)** — Słownik wszystkich unikalnych terminów i koncepcji używanych w tym projekcie
-
----
-
-### 🚀 Jak Zacząć?
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-#### 📘 Dla Pełnego Obrazu
-
-> Zacznij od przeczytania **[MANIFESTU](./_MANIFEST.md)**, aby zrozumieć skalę i strukturę projektu.
-
-</td>
-<td width="50%" valign="top">
-
-#### 🛠️ Dla Praktycznego Przykładu
-
-> Zanurz się w jedno ze **[Studiów Przypadków](./03_STUDIA_PRZYPADKOW/)**, aby zobaczyć, jak ta teoria działa w praktyce.
-
-</td>
-</tr>
-</table>
+```
+┌─────────────────────────────────────────────────────────┐
+│                    EKOSYSTEM WIEDZY                     │
+├─────────────────────────────────────────────────────────┤
+│                                                         │
+│  📚 BIBLIOTEKA WIEDZY          🔬 STREFA BADAWCZA      │
+│  (Stabilny Kanon)              (Dynamiczna Przestrzeń)  │
+│                                                         │
+│  ├─ Poziom 0-4                 ├─ HUB (SSOT)          │
+│  │  (Repozytoria Satelitarne)  ├─ Cyfrowy Ogród       │
+│  │                              └─ Zasoby              │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
 
 ---
 
-### ✨ Pozostałe Zasoby i Koncepcje
+## 🔗 Szybki Dostęp
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+### 📘 Kim jestem?
 
-#### 🔭 Mapa Drogowa (Obecne Badania)
+- **[Pełny Profil Architekta](/.ARCHITEKTURA/Architekt.md)**
+- **[Manifest Architekta](/.ARCHITEKTURA/Manifest_Architekta.md)** – Moja filozofia i wartości
+- **[Portfolio Umiejętności](/.ARCHITEKTURA/Umiejetnosci.md)** – Technologie, narzędzia, podejścia
 
-    - » Badanie zachowań emergentnych w systemach wieloagentowych.
-    - » Projektowanie niehierarchicznych architektur poznawczych.
-    - » Praktyczne zastosowanie "Protokołu Transferu Mistrzostwa".
+### 💼 Co stworzyłem?
 
-</td>
-<td width="50%" valign="top">
+- **[Katalog Projektów](/.ARCHITEKTURA/Projekty.md)** – Kompletne zestawienie intelektualnej własności
 
-#### 🏛️ Główne Paradygmaty
+### 🌍 Gdzie mnie znaleźć?
 
-    - » Symbioza Poznawcza
-    - » AGI jako Proces Emergentny
-    - » Inżynieria przez Konwersację
+> Jeśli chcesz zobaczyć, jak myślę, tworzę i rozwiązuję problemy – zapraszam do mojego głównego profilu:
+>
+> 🔗 **[LinkedIn](https://www.linkedin.com/in/jacmalmierzwa/)**
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
-#### 👨‍🔬 O Autorze
-
-> Niezależny badacz, inżynier systemów poznawczych i filozof-praktyk. Zobacz moją pełną historię i doświadczenie.
-> 
-> <a href="https://www.linkedin.com/in/jacek-ma%C5%82ecki-01bab91b6/"><strong>LinkedIn</strong></a>
-
-</td>
-<td width="50%" valign="top">
-
-#### 🔗 Kluczowe Dokumenty
-
-    - » [Manifest Architekta](./link-do-pliku-lub-repo-manifestu) *(Moje "dlaczego")*
-    - » [O Mnie (Architekt.md)](./Architekt.md) *(Moja historia)*
-    - » [Lista Umiejętności](./Umiejetnosci.md) *(Moje "czym")*
-
-</td>
-</tr>
-</table>
+**Ostatnia aktualizacja:** 28.10.2025  
+**Status:** ✅ Operational – Architektura V2.0
